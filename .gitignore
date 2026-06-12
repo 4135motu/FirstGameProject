@@ -1,0 +1,8 @@
+# UE5 自動生成物（コミット不要）
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.sln
